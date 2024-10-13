@@ -2,6 +2,7 @@
 
 ECOMMAS 2024
 
+
 ## Abstract
 
 Understanding the complex in-cylinder flow field under high swirl ratio conditions is crucial for optimizing combustion process in Spark-Ignition Direct-Injection (SIDI) engines. The nature of in-cylinder flow fields is highly complex evidenced by strong non-linearity and acyclic variation aroused from piston movement and air-wall interactions. To elucidate these characteristics, Large-Eddy Simulations (LES) have been applied to simulate the in-cylinder flow field and quantify the cyclic variations of engine flows under motoring or firing operations. In order to construct reliable LES models, the simulation results of in-cylinder flow fields with high temporal and spatial resolutions are commonly validated with highspeed Particle Image Velocimetry (PIV) data. Typical comparisons between experimental PIV flow field measurement data and numerical LES simulation results are illustrated in Fig 1.  Specifically, if discrepancies are discovered between the simulation and experimental results, the simulation results could be calibrated through adjusting parameters such as turbulent viscosity, turbulent intensity, or other model-specific parameters. [1] Although well-calibrated simulation sufficiently approaches to the experiments, the discrepancy still exists and could be accumulative. Moreover, it is challenging to tell whether the discrepancy derives from inaccurate modelling or measurement uncertainty.  
